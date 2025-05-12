@@ -1,0 +1,6 @@
+.vscode
+bin
+manifest.mf
+Makefile
+Makefile.mk
+*.jar
